@@ -1,0 +1,12 @@
+
+h1 {
+    text-align: center;
+}
+
+#totale {
+  height: 100px;
+  width: fit-content;
+  background-color: orange;
+  display: flex;
+  margin: auto;
+}
